@@ -1,0 +1,14 @@
+#preloader {
+    position: fixed;
+    padding-top: 15%;
+    top: 0;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    text-align: center;
+  
+    /* change if the mask should have another color then white */
+    z-index: 9999;
+    /* makes sure it stays on top */
+  }
