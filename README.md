@@ -42,7 +42,7 @@ git clone https://github.com/AnshumanFauzdar/Hacktoberfest2020.git
 ```
 git checkout -b branch_name
 ```
-- Make changes as stated in [how to contribute](https://github.com/AnshumanFauzdar/Hacktoberfest2020#how-to-contribute?)
+- Make changes as stated in [how to contribute](https://github.com/AnshumanFauzdar/Hacktoberfest2020#how-to-contribute)
 
 - commit and push:
 ```
