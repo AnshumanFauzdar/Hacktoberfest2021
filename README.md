@@ -61,10 +61,10 @@ git push origin branch-name
 
 ```
 ---
-#### Name: [YOUR NAME](GitHub link)
+#### Name: YOUR_NAME
 - Place: City, State, Country
 - Bio: Who are you? Spice it up XD
-- GitHub: [GitHub account name](GitHub link)
+- GitHub: [GitHub user-name](GitHub link)
 ---
 ```
 
