@@ -12,3 +12,21 @@
     z-index: 9999;
     /* makes sure it stays on top */
   }
+/* Name: Digvijay Singh Dhanker
+- Place: Gurgaon, Haryana, India
+- Bio: Mechatronics student trying to code.
+- GitHub: [Digvijay-Singh-Dhanker](https://github.com/Digvijay-Singh-Dhanker) */
+#Digvijay-Singh-Dhanker_team-details{
+  padding: 10%;
+  border: 1px black solid;
+  margin: 5%;
+  background-image: url("https://cdn.vox-cdn.com/thumbor/HLaQWTv7C0ReEOHt5Kd7Fa1UYZk=/0x0:3600x2400/920x613/filters:focal(1512x912:2088x1488):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/63865329/robots_03.0.jpg");
+  background-size: cover;
+  
+  
+}
+
+.overlay{
+  z-index: 1;
+  background: rgba(255,255,255, 0.7);
+}
