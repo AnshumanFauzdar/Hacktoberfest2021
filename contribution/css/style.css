@@ -12,10 +12,7 @@
     z-index: 9999;
     /* makes sure it stays on top */
   }
-/* Name: Digvijay Singh Dhanker
-- Place: Gurgaon, Haryana, India
-- Bio: Mechatronics student trying to code.
-- GitHub: [Digvijay-Singh-Dhanker](https://github.com/Digvijay-Singh-Dhanker) */
+
 #Digvijay-Singh-Dhanker_team-details{
   padding: 10%;
   border: 1px black solid;
@@ -26,7 +23,7 @@
   
 }
 
-.overlay{
+.Digvijay-Singh-Dhanker_overlay{
   z-index: 1;
   background: rgba(255,255,255, 0.7);
 }

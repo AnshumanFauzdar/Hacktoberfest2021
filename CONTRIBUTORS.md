@@ -7,3 +7,7 @@
 ---
 
 # Contributors:
+#### Name: Digvijay Singh Dhanker
+- Place: Gurgaon, Haryana, India
+- Bio: Mechatronics student trying to code.
+- GitHub: [Digvijay-Singh-Dhanker](https://github.com/Digvijay-Singh-Dhanker)
