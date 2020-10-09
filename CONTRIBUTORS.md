@@ -26,9 +26,16 @@
 - GitHub: [shivamcreator](https://github.com/shivamcreator/)
 
 ---
+#### Name: Dwi Guna
+- Place: Bali, Indonesia
+- Bio: Studying at STIKI.
+- GitHub: [VINAY DHIMAN](https://github.com/VinayDhiman)
+---
+
+---
 ---
 #### Name: Leelu Pradhan
 - Place: Noida, Uttar Pradesh
 - Bio: Entry level coder!
-- GitHub: [LeeluPradhan](https://github.com/LeeluPradhan)
+- GitHub: [dwiguna81](https://github.com/dwiguna81)
 ---

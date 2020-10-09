@@ -1,180 +1,205 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>HACKTOBERFEST 2020</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>HACKTOBERFEST 2020</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <link rel="shortcut icon" type="image/x-icon" href="https://hacktoberfest.digitalocean.com/assets/favicon-79cf6800e5106ab81f2e1d8b0d8aec638a803ced6d8d61539841b9754573e0f0.png" />
-    <!-- PS: ALL COPYRIGHT RESERVES TO HACKTOBERFEST, graphics only used for educational purpose -->
+  <link rel="shortcut icon" type="image/x-icon"
+    href="https://hacktoberfest.digitalocean.com/assets/favicon-79cf6800e5106ab81f2e1d8b0d8aec638a803ced6d8d61539841b9754573e0f0.png" />
+  <!-- PS: ALL COPYRIGHT RESERVES TO HACKTOBERFEST, graphics only used for educational purpose -->
 
-    <!-- bootstrap CSS CDN -->
+  <!-- bootstrap CSS CDN -->
 
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+    integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
 
-    <!-- Custom linked CSS -->
+  <!-- Custom linked CSS -->
 
-    <link rel="stylesheet" href="contribution/css/style.css">
+  <link rel="stylesheet" href="contribution/css/style.css">
 
-    <!-- Ajax CDN animate CSS -->
+  <!-- Ajax CDN animate CSS -->
 
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css">
 
-    <!-- fontawesome icons CDN js -->
+  <!-- fontawesome icons CDN js -->
 
-    <script src="https://kit.fontawesome.com/781513743a.js" crossorigin="anonymous"></script>
+  <script src="https://kit.fontawesome.com/781513743a.js" crossorigin="anonymous"></script>
 
-    <!-- Jquery CDN -->
+  <!-- Jquery CDN -->
 
-    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+  <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
+    integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n"
+    crossorigin="anonymous"></script>
 
-    <!-- Minimal popper js CDN -->
+  <!-- Minimal popper js CDN -->
 
-    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+    integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+    crossorigin="anonymous"></script>
 
-    <!-- Bootstrap js CDN -->
+  <!-- Bootstrap js CDN -->
 
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
+    integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6"
+    crossorigin="anonymous"></script>
 
-    <!-- Ajax js CDN -->
+  <!-- Ajax js CDN -->
 
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 
-    <!-- Lottie Player js CDN -->
+  <!-- Lottie Player js CDN -->
 
-    <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+  <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
 
-    <!-- Custom linked js -->
+  <!-- Custom linked js -->
 
-    <script src="contribution/js/script.js" charset="utf-8"></script>
+  <script src="contribution/js/script.js" charset="utf-8"></script>
 
-    <!-- MDBootstrap CDN start-->
+  <!-- MDBootstrap CDN start-->
 
-    <!-- Google Fonts -->
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap">
-    <!-- Material Design Bootstrap -->
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.14.1/css/mdb.min.css" rel="stylesheet">
+  <!-- Google Fonts -->
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap">
+  <!-- Material Design Bootstrap -->
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.14.1/css/mdb.min.css" rel="stylesheet">
 
-    <!-- JQuery -->
+  <!-- JQuery -->
 
-    <!-- MDB core JavaScript -->
+  <!-- MDB core JavaScript -->
 
-    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.14.1/js/mdb.min.js"></script>
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.14.1/js/mdb.min.js"></script>
 
-    <!-- MDBootstrap CDN Ends-->
+  <!-- MDBootstrap CDN Ends-->
 
 </head>
+
 <body>
 
-<!--Navbar-->
-<nav class="navbar navbar-dark purple-gradient">
+  <!--Navbar-->
+  <nav class="navbar navbar-dark purple-gradient">
 
 
 
 
 
-<ul class="navbar-nav ml-auto">
-  <li class="nav-item ml-auto">
-    <a class="nav-link" href="https://github.com/AnshumanFauzdar/Hacktoberfest2020">
-      <i class="fab fa-github fa-4x"></i>
-    </a>
-  </li>
-</ul>
+    <ul class="navbar-nav ml-auto">
+      <li class="nav-item ml-auto">
+        <a class="nav-link" href="https://github.com/AnshumanFauzdar/Hacktoberfest2020">
+          <i class="fab fa-github fa-4x"></i>
+        </a>
+      </li>
+    </ul>
 
-</nav>
+  </nav>
 
-<!--Navbar Ends-->
+  <!--Navbar Ends-->
 
-<!-- Header Section -->
-<div class="sunny">
-  <div id='stars'></div>
-  <div id='stars2'></div>
-  <div id='stars3'></div>
+  <!-- Header Section -->
+  <div class="sunny">
+    <div id='stars'></div>
+    <div id='stars2'></div>
+    <div id='stars3'></div>
 
-<section class=" pt-5 pb-5 mt-0 align-items-center d-flex bg-dark" style="height:100vh; background-size: cover; ">
+    <section class=" pt-5 pb-5 mt-0 align-items-center d-flex bg-dark" style="height:100vh; background-size: cover; ">
 
-   <div class="container-fluid">
+      <div class="container-fluid">
 
-      <div class="row  justify-content-center align-items-center d-flex text-center h-100">
-  <img style="overflow : hidden;"src="https://hacktoberfest.digitalocean.com/assets/HF-full-logo-b05d5eb32b3f3ecc9b2240526104cf4da3187b8b61963dd9042fdc2536e4a76c.svg" alt="">
-</a>
-      </div>
-    </div>
-    </section>
-<div class="container">
-
-  <section class="our-webcoderskull padding-lg">
-   <div class="container">
-     <div class="row heading heading-icon">
-         <h2>Our Team</h2>
-     </div>
-     <ul class="row">
-       <li class="col-12 col-md-6 col-lg-4">
-           <div class="cnt-block equal-hight" style="height: 349px;">
-             <figure><img src="https://github.com/AnshumanFauzdar.png" class="img-responsive" alt=""></figure>
-             <h3>Anshuman Fauzdar</h3>
-
-             <ul class="follow-us clearfix">
-               <li><a href="https://github.com/AnshumanFauzdar"><i class="fab fa-github fa-2x"></i></a></li>
-
-
-             </ul>
-           </div>
-       </li>
-       <li class="col-12 col-md-6 col-lg-4">
-           <div class="cnt-block equal-hight" style="height: 349px;">
-             <figure><img src="https://github.com/sunnyvedwal.png" class="img-responsive" alt=""></figure>
-             <h3>Sunny Vedwal</h3>
-
-             <ul class="follow-us clearfix">
-                <li><a href="https://github.com/sunnyvedwal"><i class="fab fa-github fa-2x"></i></a></li>
-
-
-             </ul>
-           </div>
-       </li>
-       <li class="col-12 col-md-6 col-lg-4">
-           <div class="cnt-block equal-hight" style="height: 349px;">
-             <figure><img src="https://github.com/VinayDhiman.png" class="img-responsive" alt=""></figure>
-             <h3>Vinay Dhiman</h3>
-
-             <ul class="follow-us clearfix">
-               <li><a href="https://github.com/VinayDhiman"><i class="fab fa-github fa-2x"></i></a></li>
-
-
-             </ul>
-           </div>
-        </li>
-
-     </ul>
-   </div>
- </section>
-
-</div>
-
-</div>
-
-
-<!-- Team  -->
-
-
-
-
-
-
-
-<!-- PRELOADER STARTS -->
-
-      <div id="preloader" style="background-color: white;">
-        <h1 style="font-weight: bold;">HACKTOBERFEST 2020</h1>
-        <div id="status">
-          <img src="https://i.imgur.com/wGThwX8.gif" alt="logo">
+        <div class="row  justify-content-center align-items-center d-flex text-center h-100">
+          <img style="overflow : hidden;"
+            src="https://hacktoberfest.digitalocean.com/assets/HF-full-logo-b05d5eb32b3f3ecc9b2240526104cf4da3187b8b61963dd9042fdc2536e4a76c.svg"
+            alt="">
+          </a>
         </div>
       </div>
+    </section>
+    <div class="container">
 
-<!-- PRELOADER ENDS -->
+      <section class="our-webcoderskull padding-lg">
+        <div class="container">
+          <div class="row heading heading-icon">
+            <h2>Our Team</h2>
+          </div>
+          <ul class="row">
+            <li class="col-12 col-md-6 col-lg-4">
+              <div class="cnt-block equal-hight" style="height: 349px;">
+                <figure><img src="https://github.com/AnshumanFauzdar.png" class="img-responsive" alt=""></figure>
+                <h3>Anshuman Fauzdar</h3>
+
+                <ul class="follow-us clearfix">
+                  <li><a href="https://github.com/AnshumanFauzdar"><i class="fab fa-github fa-2x"></i></a></li>
+
+
+                </ul>
+              </div>
+            </li>
+            <li class="col-12 col-md-6 col-lg-4">
+              <div class="cnt-block equal-hight" style="height: 349px;">
+                <figure><img src="https://github.com/sunnyvedwal.png" class="img-responsive" alt=""></figure>
+                <h3>Sunny Vedwal</h3>
+
+                <ul class="follow-us clearfix">
+                  <li><a href="https://github.com/sunnyvedwal"><i class="fab fa-github fa-2x"></i></a></li>
+
+
+                </ul>
+              </div>
+            </li>
+            <li class="col-12 col-md-6 col-lg-4">
+              <div class="cnt-block equal-hight" style="height: 349px;">
+                <figure><img src="https://github.com/dwiguna81" class="img-responsive" alt=""></figure>
+                <h3>Dwi Guna</h3>
+
+                <ul class="follow-us clearfix">
+                  <li><a href="https://github.com/dwiguna81"><i class="fab fa-github fa-2x"></i></a></li>
+
+
+                </ul>
+              </div>
+            </li>
+            <li class="col-12 col-md-6 col-lg-4">
+              <div class="cnt-block equal-hight" style="height: 349px;">
+                <figure><img src="https://github.com/VinayDhiman.png" class="img-responsive" alt=""></figure>
+                <h3>Vinay Dhiman</h3>
+
+                <ul class="follow-us clearfix">
+                  <li><a href="https://github.com/VinayDhiman"><i class="fab fa-github fa-2x"></i></a></li>
+
+
+                </ul>
+              </div>
+            </li>
+
+          </ul>
+        </div>
+      </section>
+
+    </div>
+
+  </div>
+
+
+  <!-- Team  -->
+
+
+
+
+
+
+
+  <!-- PRELOADER STARTS -->
+
+  <div id="preloader" style="background-color: white;">
+    <h1 style="font-weight: bold;">HACKTOBERFEST 2020</h1>
+    <div id="status">
+      <img src="https://i.imgur.com/wGThwX8.gif" alt="logo">
+    </div>
+  </div>
+
+  <!-- PRELOADER ENDS -->
 
 
 </body>
+
 </html>
