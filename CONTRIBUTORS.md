@@ -33,4 +33,9 @@
 - GitHub: [LeeluPradhan](https://github.com/LeeluPradhan)
 ---
 
-
+---
+#### Name: Sweta Swagatika
+- Place: Bhubaneswar, Odisha
+- Bio: Trying to merge technology with creativity! 
+- GitHub: [Sweta271097](https://github.com/Sweta271097)
+---
