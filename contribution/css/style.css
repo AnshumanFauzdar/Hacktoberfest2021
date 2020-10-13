@@ -195,4 +195,37 @@ ul{
 .our-webcoderskull .cnt-block .follow-us li .fa:hover{
    color:#025a8e;
 }
+
+/* Sweta's code for buttons */
+.sbtn {
+  padding: 10px;
+  text-align: center;
+  cursor: pointer;
+  font-family: inherit;
+  overflow: hidden;
+}
+
+.social-btn {
+  box-shadow: 0 1px 4px #4d4d4d;
+  transition: all .2s;
+  position: relative;
+  padding-right: 35px;
+  font-size: 1rem!important;
+  border-radius: 10px;
+}
+
+.social-btn.instagram {
+  background: linear-gradient(45deg,#f09433 0,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%);
+  color: #fff;
+  border: 0!important;
+}
+
+.social-btn.twitter {
+  background:  #00acee ;
+  color: #fff;
+  border: 0!important;
+}
+
+/* Sweta's code end */
+
 /* -----------Board page ends------------- */

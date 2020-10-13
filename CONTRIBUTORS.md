@@ -29,6 +29,8 @@
 ---
 #### Name: Leelu Pradhan
 - Place: Noida, Uttar Pradesh
-- Bio: Entry level coder!
+- Bio: Entry level coder! 
 - GitHub: [LeeluPradhan](https://github.com/LeeluPradhan)
 ---
+
+
