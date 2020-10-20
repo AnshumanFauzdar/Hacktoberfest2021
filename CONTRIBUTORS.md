@@ -39,3 +39,10 @@
 - Bio: Trying to merge technology with creativity! 
 - GitHub: [Sweta271097](https://github.com/Sweta271097)
 ---
+
+---
+#### Name: Prateek Singh
+- Place: Bhopal,Madhya Pradesh
+- Bio: New to Open Source! 
+- GitHub: [Prateek](https://github.com/Ocoderdude/)
+---
