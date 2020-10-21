@@ -290,6 +290,13 @@ ul{
     -webkit-backface-visibility: hidden;
     backface-visibility: hidden;
 }
+.about-flip-card-front i
+{
+    color: #000;
+    font-size: 35px;
+    margin-block-start: auto;
+    margin-left: -34px;
+}
 
 .about-flip-card-back {
     background-color: black;
