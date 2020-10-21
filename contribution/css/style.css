@@ -232,6 +232,13 @@ ul{
 
 /* Suraj J Pai's Code start */
 
+.section-title {
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 40px;
+    padding: 30px;
+}
+
 #about-team {
     width: 100%;
     min-height: 100vh;
