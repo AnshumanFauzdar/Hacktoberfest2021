@@ -246,8 +246,8 @@ ul{
     background: -webkit-linear-gradient(to bottom, black, grey);
     background: linear-gradient(to bottom, grey, black);
     display: flex;
+    flex-direction: column;
     flex-wrap: wrap;
-    justify-content: space-evenly;
     padding: 20px 0;
 }
 
