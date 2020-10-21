@@ -39,3 +39,10 @@
 - Bio: Trying to merge technology with creativity! 
 - GitHub: [Sweta271097](https://github.com/Sweta271097)
 ---
+
+---
+#### Name: Sweta Kabi
+- Place: Bangalore, Karnataka
+- Bio: Write. Create. Recurse 
+- GitHub: [sweta98](https://github.com/sweta98)
+---
