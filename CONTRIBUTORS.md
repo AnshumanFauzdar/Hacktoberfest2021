@@ -39,3 +39,10 @@
 - Bio: Trying to merge technology with creativity! 
 - GitHub: [Sweta271097](https://github.com/Sweta271097)
 ---
+
+---
+#### Name: Suraj J Pai
+- Place: Mangalore, Karnataka
+- Bio: New to open-souce!
+- GitHub: [fatalcoder524](https://github.com/fatalcoder524)
+---
