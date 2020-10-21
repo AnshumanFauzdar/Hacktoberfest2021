@@ -263,6 +263,7 @@ ul{
     height: 250px;
     perspective: 1000px;
     margin: 10px;
+    animation: ring 1.5s infinite;
 }
 
 .about-flip-card-inner {
@@ -309,6 +310,18 @@ ul{
     padding: 15px;
     color: white;
     transform: rotateY(180deg);
+}
+@keyframes ring {
+  0% {
+    width: 30px;
+    height: 30px;
+    opacity: 1;
+  }
+  100% {
+    width: 300px;
+    height: 300px;
+    opacity: 0;
+  }
 }
 
 /* Suraj J Pai's Code end */
