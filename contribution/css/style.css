@@ -309,6 +309,8 @@ ul{
     padding: 15px;
     color: white;
     transform: rotateY(180deg);
+    overflow: hidden;
+}
 
 
 /* Suraj J Pai's Code end */
