@@ -290,6 +290,12 @@ ul{
     -webkit-backface-visibility: hidden;
     backface-visibility: hidden;
 }
+
+.about-flip-card-front
+{
+    display: flex;
+}
+
 .about-flip-card-front i
 {
     color: #000;
