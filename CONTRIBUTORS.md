@@ -46,3 +46,8 @@
 - Bio: New to open-souce!
 - GitHub: [fatalcoder524](https://github.com/fatalcoder524)
 ---
+#### Name: Kuwar kapur
+- Place: Delhi, India
+- Bio: just a coder working his up to the top
+- GitHub: [kuwarkapur](https://github.com/kuwarkapur)
+---
