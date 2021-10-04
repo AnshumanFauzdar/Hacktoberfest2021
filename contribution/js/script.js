@@ -9,4 +9,10 @@ $(window).on('load', function() { // makes sure the whole site is loaded
     card_item.addEventListener('click', ()=>
     card_item.classList.toggle('is-flipped'))});
   })
-  
+//   const loader = document.querySelector('.bg')
+// const content = document.querySelector('.content')
+
+// window.addEventListener('load', function() {
+//     // loader.parentElement.appendChild(fade)
+//     loader.parentElement.removeChild(loader)
+// })
