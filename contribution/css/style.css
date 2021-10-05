@@ -94,11 +94,6 @@ overflow: hidden;
     padding-bottom: 20px;
     text-transform: uppercase;
 }
-ul{
-  margin:0;
-  padding:0;
-  list-style:none;
-}
 .heading.heading-icon {
     display: block;
 }
@@ -195,6 +190,15 @@ ul{
 .our-webcoderskull .cnt-block .follow-us li .fa:hover{
    color:#025a8e;
 }
+/* Prashhant's code for navigation bar */
+
+#header {
+  background-color: #bc1888;
+  margin: 0px;
+  padding: 0px;
+}
+
+/* Prashant's code ends here*/
 
 /* Sweta's code for buttons */
 .sbtn {
@@ -314,3 +318,4 @@ ul{
 
 
 /* Suraj J Pai's Code end */
+

@@ -51,3 +51,9 @@
 - Bio: just a coder working his up to the top
 - GitHub: [kuwarkapur](https://github.com/kuwarkapur)
 ---
+
+#### Name: Prashant Kumar
+- Place: Chandigarh, India
+- Bio: Open-source Contributer
+- GitHub: [prashantkr006](https://github.com/prashantkr006)
+---
