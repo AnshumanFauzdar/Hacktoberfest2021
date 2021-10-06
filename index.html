@@ -66,24 +66,39 @@
 
 </head>
 <body>
-
-<!--Navbar-->
-<nav class="navbar navbar-dark purple-gradient">
-
-
-
-
-
-<ul class="navbar-nav ml-auto">
-  <li class="nav-item ml-auto">
+<nav class="navbar fixed-top navbar-expand-lg navbar-dark p-md-3">
+  <div class="container">
     <a class="nav-link" href="https://github.com/AnshumanFauzdar/Hacktoberfest2020">
       <i class="fab fa-github fa-4x"></i>
     </a>
-  </li>
-</ul>
+    <button
+      class="navbar-toggler"
+      type="button"
+      data-bs-toggle="collapse"
+      data-bs-target="#navbarNav"
+      aria-controls="navbarNav"
+      aria-expanded="false"
+      aria-label="Toggle navigation"
+    >
+      <span class="navbar-toggler-icon"></span>
+    </button>
 
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <div class="mx-auto"></div>
+      <ul class="navbar-nav">
+        <li class="nav-item">
+          <a class="nav-link text-white" href="#">Home</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link text-white" href="#ourteam">Our Team</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link text-white" href="#contributers">Contributers</a>
+        </li>
+      </ul>
+    </div>
+  </div>
 </nav>
-
 <!--Navbar Ends-->
 
 <!-- Header Section -->
@@ -105,6 +120,7 @@
 <div class="container">
 
   <section class="our-webcoderskull padding-lg">
+  <div id="ourteam">
    <div class="container">
      <div class="row heading heading-icon">
          <h2>Our Team</h2>
@@ -149,6 +165,7 @@
 
      </ul>
    </div>
+   </div>
  </section>
  <!-- addition of social buttons -->
  <div style="text-align: center" data-aos='fade-up'>
@@ -169,6 +186,7 @@
 </div>
 
     <!-- Team  -->
+<div id="contributers">
 <section id="about-team">
             <h1 class="section-title text-white">Contributors</h1>
             <div class="about-cards">
@@ -192,6 +210,7 @@
                 </div>
 </section>
 </div>
+</div>
 
 
 
@@ -206,6 +225,6 @@
 
 <!-- PRELOADER ENDS -->
 
-
+<script src="contribution/js/prashantkr006_bootstrap.bundle.min.js"></script>
 </body>
 </html>
