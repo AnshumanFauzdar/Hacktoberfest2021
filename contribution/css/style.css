@@ -316,6 +316,9 @@ overflow: hidden;
     overflow: hidden;
 }
 
+.container-fluid{
+  height: 200px;
+  width: 50%;
+}
 
 /* Suraj J Pai's Code end */
-
