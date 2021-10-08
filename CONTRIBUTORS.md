@@ -63,3 +63,9 @@
 - Bio: Web-Developer looking new things to learn and develop
 - GitHub: [prakhartech](https://github.com/prakhatech)
 ---
+
+#### Name: Ahana Pal
+- Place: West Bengal, India
+- Bio: Computer Science Undergrad!
+- GitHub: [AhanaPal](https://github.com/ErzaTitania-2001)
+---
