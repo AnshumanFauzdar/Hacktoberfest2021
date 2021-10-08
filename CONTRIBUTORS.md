@@ -57,3 +57,9 @@
 - Bio: Open-source Contributer
 - GitHub: [prashantkr006](https://github.com/prashantkr006)
 ---
+
+#### Name: Prakhar Agrawal
+- Place: Rajasthan, India
+- Bio: Web-Developer looking new things to learn and develop
+- GitHub: [prakhartech](https://github.com/prakhatech)
+---
