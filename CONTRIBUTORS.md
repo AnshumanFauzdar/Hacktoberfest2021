@@ -101,3 +101,10 @@
 - Bio: Web-Developer looking new things to learn and develop
 - GitHub: [prakhartech](https://github.com/prakhatech)
 ---
+
+---
+#### Name: Sweta Kabi
+- Place: Bangalore, Karnataka
+- Bio: Write. Create. Recurse 
+- GitHub: [sweta98](https://github.com/sweta98)
+---
