@@ -101,3 +101,10 @@
 - Bio: Web-Developer looking new things to learn and develop
 - GitHub: [prakhartech](https://github.com/prakhatech)
 ---
+
+---
+#### Name: Prateek Singh
+- Place: Bhopal,Madhya Pradesh
+- Bio: New to Open Source! 
+- GitHub: [Prateek](https://github.com/Ocoderdude/)
+---
