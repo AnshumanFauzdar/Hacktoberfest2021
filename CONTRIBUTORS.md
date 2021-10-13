@@ -101,3 +101,11 @@
 - Bio: Web-Developer looking new things to learn and develop
 - GitHub: [prakhartech](https://github.com/prakhatech)
 ---
+
+---
+#### Name: Tushar Chaudhary
+- Place: Bhandara, Maharashtra, India 
+- Bio: Learning web development and open source contribution
+- GitHub: [stantushaar](https://github.com/stantushar)
+---
+
