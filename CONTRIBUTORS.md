@@ -101,3 +101,8 @@
 - Bio: Web-Developer looking new things to learn and develop
 - GitHub: [prakhartech](https://github.com/prakhatech)
 ---
+
+#### Name: Shweta Rani
+- Place: Daltonganj, Jharkhand, India
+- Bio: Web-Developer 
+- GitHub: [Shweta-Rani1](https://github.com/Shweta-Rani1)
