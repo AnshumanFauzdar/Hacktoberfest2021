@@ -101,3 +101,10 @@
 - Bio: Web-Developer looking new things to learn and develop
 - GitHub: [prakhartech](https://github.com/prakhatech)
 ---
+
+#### Name:Shahbaz Alam
+-Place:Ranchi,Jharkhand
+-Bio:Open source Enthusiast
+-GitHub:[Alam9835](https://github.com/Alam9835)
+
+---
