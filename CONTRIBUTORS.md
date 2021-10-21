@@ -101,3 +101,9 @@
 - Bio: Web-Developer looking new things to learn and develop
 - GitHub: [prakhartech](https://github.com/prakhatech)
 ---
+
+#### Name: Chinmay Kamble
+- Place: Maharashtra, India
+- Bio: Frontend Developer
+- GitHub: [Chinmayk2002](https://github.com/Chinmayk2002)
+---
