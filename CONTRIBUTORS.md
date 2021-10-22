@@ -101,3 +101,10 @@
 - Bio: Web-Developer looking new things to learn and develop
 - GitHub: [prakhartech](https://github.com/prakhatech)
 ---
+---
+#### Name: Simran Kumari
+- Place: Bihar, India
+- Bio: curious soul 
+- GitHub: [simranquirky](https://github.com/simranquirky)
+---
+
