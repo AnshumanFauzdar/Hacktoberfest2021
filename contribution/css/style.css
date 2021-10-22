@@ -878,3 +878,17 @@
 }
 
 /* Mayank Gautam's code start */
+
+
+.col-12{
+    background-color: transparent;
+    border-radius: 20px;
+    border: 2px solid white;
+    padding-top: 20px;
+   padding: -5px -5px;
+}
+
+.cnt-block{
+    border-radius: 20px;
+
+}
