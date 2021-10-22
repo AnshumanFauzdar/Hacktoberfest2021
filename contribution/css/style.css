@@ -743,6 +743,8 @@
   text-align: center;
   font-size: 40px;
   padding: 30px;
+  display:flex;
+  flex-direction: row;
 }
 
 #about-team {
@@ -885,7 +887,7 @@
     border-radius: 20px;
     border: 2px solid white;
     padding-top: 20px;
-   padding: -5px -5px;
+    padding: -5px -5px;
 }
 
 .cnt-block{

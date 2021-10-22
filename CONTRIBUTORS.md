@@ -107,4 +107,10 @@
 - Bio: curious soul 
 - GitHub: [simranquirky](https://github.com/simranquirky)
 ---
+---
+#### Name: YOUR_NAME
+- Place: Viimsi, Harjumaa, Estonia
+- Bio: Software developer looking for some swag
+- GitHub: [TriinK](https://github.com/TriinK)
+---
 
