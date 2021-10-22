@@ -1,0 +1,57 @@
+/* kshitij block css */
+
+.kshitij_content {
+  display: grid;
+  grid-gap: 0.9rem;
+}
+
+.kshitij_card {
+  width: 250px;
+  height: 250px;
+  padding: 1rem;
+  background: #f4f4f4;
+  border-radius: 5px;
+  transition: all 0.4s ease-in-out;
+}
+
+.kshitij_card:hover {
+  transform: translateY(8px);
+  box-shadow: inset 0 100px 1000px 10px rgba(53, 159, 167, 0.548);
+}
+
+.kshitij_card:hover .kshitij_content {
+  opacity: 1;
+}
+
+.kshitij_content {
+  opacity: 0;
+  transition: all 0.5s ease-in-out;
+  position: relative;
+}
+
+.kshitij_bio {
+  position: absolute;
+  color: white;
+  top: 160px;
+}
+
+.kshitij_social {
+  display: flex;
+  color: white;
+  flex-direction: column;
+  position: absolute;
+  right: 0;
+}
+
+.kshitij_card {
+  background: url("https://lh3.googleusercontent.com/kgssGTBEU4PJ5zCEWq3PT1MQF1oTXwJnJaOyRdFNmIrDfEN2qzKCIwJmHQjaAW4WFDQiCrEiG3EeRQi2rXaiG_8-LeE5j4AV6MBW686KnLM8Xn8LjiWbH_RylKdS5AAWRpuytCZXwl4XHUtDwNn7VuHFgyhRLaZpSDKG1l8WeVftsrqF-nFlkbuoPmGyGqlvMJXswDSPNZkT0XvmcBLiZ4EKUyxsskIKwGl2JIhEklPp6j9r-lvBQFxLeW7NXTPhK0WJbHxKAaP90Dop_vUb6HujNc0ivie1sWFNKIf7e1bEr-W3t4zeDbMOxBWXGfrLDj0nD1B_inBl1_HULSxTPU1i0NPDTs60edN24qOOxsHBKIXTZt4m1duHHoYP6nPSczMPiMK3ASND5WWCyGqYvxrGtRQuOchNuNJHlnJkva1NVp_43Q6blXrDKukn1zuWyW-Ihf1HHAc4tDoqFdve_ljTb3ZD0MbdAGB0LDW2kPpOcl7Sqr2lUM_Ez9hHxrhDCqyZOafKHyHfRooifBiHVYUOBHMmmthYAax5bZ3_aG8SPGrAmJJnM0NURrEefdDAxKhK6HBUairia3zJSURyytIhUPviEG6KSGIv4GIKBqgse8FvLqTBEkcMPECH8i6-0x-P0BVvwG8F2Xkq6xNBMQ8tyZimVWADSO80uk2j-WNxfFd4G_ejooUGtHQjDSrZaEewc_CyxvI2MinjBIBSycg=w703-h937-no?authuser=0")
+    no-repeat center 30% / cover;
+}
+
+.kshitij_card:hover {
+  background-position: 40%;
+}
+
+.fab {
+  color: #fff;
+}
