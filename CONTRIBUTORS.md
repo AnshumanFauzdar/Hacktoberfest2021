@@ -1,6 +1,13 @@
 # Team:
 
 ---
+#### Name: Avishek Kumar Sharma
+
+- Place: West bengal, India
+- Bio: A body of clay, mindful of play, moments life, that is me !
+- GitHub: [Kshitij](https://github.com/kshitij5)
+
+---
 
 #### Name: Anshuman Fauzdar
 
