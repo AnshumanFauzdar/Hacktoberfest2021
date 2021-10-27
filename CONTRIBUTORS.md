@@ -111,8 +111,14 @@
 ---
 #### Name: Simran Kumari
 - Place: Bihar, India
-- Bio: curious soul 
+- Bio: curious soul
 - GitHub: [simranquirky](https://github.com/simranquirky)
+---
+---
+#### Name: Kim McCaffrey
+- Place: Minneapolis USA
+- Bio: Brushing up on Frontend
+- GitHub: [QAMinn2468](https://github.com/QAMinn2468)
 ---
 ---
 #### Name: YOUR_NAME
@@ -120,4 +126,3 @@
 - Bio: Software developer looking for some swag
 - GitHub: [TriinK](https://github.com/TriinK)
 ---
-
