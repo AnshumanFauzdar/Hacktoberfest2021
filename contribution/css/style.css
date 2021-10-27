@@ -13,6 +13,13 @@
   /* makes sure it stays on top */
 }
 
+
+#aman339_preloader {
+    position: fixed;
+    padding-top: 15%;
+  }
+
+
 .sunny {
   background: radial-gradient(ellipse at bottom, #1b2735 0%, #090a0f 100%);
   overflow: hidden;

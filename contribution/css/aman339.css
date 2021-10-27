@@ -1,0 +1,57 @@
+/* Aman block css */
+
+.aman339_content {
+  display: grid;
+  grid-gap: 0.9rem;
+}
+
+.aman339_card {
+  width: 250px;
+  height: 250px;
+  padding: 1rem;
+  background: #f4f4f4;
+  border-radius: 5px;
+  transition: all 0.4s ease-in-out;
+}
+
+.aman339_card:hover {
+  transform: translateY(8px);
+  box-shadow: inset 0 100px 1000px 10px rgba(53, 159, 167, 0.548);
+}
+
+.aman339_card:hover .aman339_content {
+  opacity: 1;
+}
+
+.aman339_content {
+  opacity: 0;
+  transition: all 0.5s ease-in-out;
+  position: relative;
+}
+
+.aman339_bio {
+  position: absolute;
+  color: white;
+  top: 160px;
+}
+
+.aman339_social {
+  display: flex;
+  color: white;
+  flex-direction: column;
+  position: absolute;
+  right: 0;
+}
+
+.aman339_card {
+  background: white;
+    no-repeat center 30% / cover;
+}
+
+.aman339_card:hover {
+  background-position: 40%;
+}
+
+.fab {
+  color: #fff;
+}
